@@ -212,6 +212,19 @@ dl{
  		opacity: 0;
  	}
  }
+ 
+ #gnav{
+ 		background-color: gray;
+ }
+ #gnav ul{
+ 		overflow:hidden;
+ }
+ #nav li{
+ 		float: left;
+ 		width: 200px;
+ }
+ 
+ 
 /* ---------------------------------------------------------------------------*/
 /* スマートフォン向けCSS */
 @media (max-width: 767px) {
